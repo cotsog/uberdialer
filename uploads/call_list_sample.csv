@@ -1,0 +1,15 @@
+Member ID,Email,First Name,Last Name,Job Title,Job Level,Job Function,Company,Address,City,State,Country,Zip,Phone,Ext,Time Zone,Company Size,Industry,Priority,Owner
+,dean.beaudet@espn.com,DEAN,BEAUDET,FACILITIES MANAGER,Manager Level,Business,ESPN INC,1 ESPN DR,BRISTOL,CT,in,06010-8016,8866470165,1234,EST,"1,000-4,999",Finance,6,pureb2b
+,dholt@dunnconstruction.com,DARRYL,HOLT,FLEET MANAGER,Manager Level,Business,DUNN CONSTRUCTION COMPANY INC,2524 BIRMINGPORT RD,BIRMINGHAM,AL,in,35224-1700,8866470165,1234,CST,250-499,Finance,1,pureb2b
+,dmiller@stjoe.org,DON,MILLER,PHARMACYDIRECTOR,Director Level,Business,SANTA ROSA MEMORIAL HOSPITAL,500 S MAIN ST STE 1000,ORANGE,CA,in,92868-4533,8866470165,1234,PST,"1,000-4,999",Finance,2,pureb2b
+,drodriguez@kearnyfederalsavings.net,DON,RODRIGUEZ,MANAGER,Manager Level,Business,KEARNY FEDERAL SAVINGS BANK,250 VALLEY BLVD,WOOD RIDGE,NJ,in,07075-1202,8866470165,1234,EST,250-499,Finance,3,pureb2b
+,dthomps@transunion.com,DOUGLAS,THOMPSON,INTERNATIONAL MANAGER-APPLICATION DEVELOPMENT,Manager Level,IT,TRANS UNION CORPORATION,525 W MONROE ST STE 1200,CHICAGO,IL,in,60661-3750,8866470165,1234,CST,"1,000-4,999",Finance,4,pureb2b
+,dwight.picou@gm.com,DWIGHT,PICOU,GLOBAL---DATA CENTRE OPERATIONS MANAGER,Manager Level,IT,GENERAL MOTORS CORP,300 RENAISSANCE CTR,DETROIT,MI,in,48243-1402,8866470165,1234,EST,>100K,Finance,1,pureb2b
+,edward.smith@ncsl.org,EDWARD,SMITH,MANAGING EDITOR,Manager Level,Business,NCSL,7700 E 1ST PL,DENVER,CO,in,80230-7143,8866470165,1234,MST,250-499,Business Services,5,pureb2b
+,testkomal@espn.com,CHRIS,FONTANA,MIS MANAGER,Manager Level,IT,Indusa,935 MIDDLE ST,Ahmedabad,Gujarat,in,06010-1099,8866470165,1234,EST,"1,000-4,999",Retail,2,pureb2b
+,komal.rathod06@gmail.com,Komal,Rathod,Developer,Manager Level,IT,Indusa,935 MIDDLE ST,Ahmedabad,Gujarat,in,06010-1100,8866470165,1234,EST,"1,000-4,1000","Healthcare, Pharmaceuticals and Biotech",3,pureb2b
+,testkomal1@mailinator.com,P!,Rathod,Developer,Manager Level,IT,Indusa,936 MIDDLE ST,Ahmedabad,Gujarat,in,06010-1101,8866470165,1234,EST,"1,000-4,1001",Retail,1,pureb2b
+,parsssul123@mailinator.com,P!,Rathod,Developer,Manager Level,IT,Indusa,936 MIDDLE ST,BRISTOL,CT,in,06010-1101,8866470165,1234,EST,"1,000-4,1001",Finance,9,pureb2b
+,dheolt@dunnconstruction.com,DARRYL,HOLT,Developer,Manager Level,Business,DUNN CONSTRUCTION COMPANY INC,2524 BIRMINGPORT RD,BIRMINGHAM,AL,in,35224-1700,8866470165,1234,CST,250-499,Non-Profit,10,pureb2b
+,eolt@dunnconstruction.com,ss,HOLT,Developer,Manager Level,Business,DUNN CONSTRUCTION COMPANY INC,2524 BIRMINGPORT RD,BIRMINGHAM,AL,in,35224-1700,8866470165,1234,CST,250-499,Retail,11,pureb2b
+,eoltq@dunnconstruction.com,ss,HOLT,Developer,Manager Level,Business,DUNN CONSTRUCTION COMPANY INC,2524 BIRMINGPORT RD,BIRMINGHAM,AL,in,35224-1700,8866470165,1234,CST,250-499,Business Services,25,pureb2b

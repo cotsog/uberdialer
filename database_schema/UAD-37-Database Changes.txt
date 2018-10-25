@@ -1,0 +1,18 @@
+Database Changes
+UAD – 37
+1.	Create auto_hopper table for when we fetch contacts details from contacts and campaign_contacts table and then inserted into this table by adding below columns 
+	1.	hopper_id – BIGINT (20)
+	2.	campaign_contact_id – BIGINT (20)
+	3.	phone_number – BIGINT (20)
+	4.	ext_phone_number – VARCHAR(25)
+	5.	contact_id – BIGINT (20)
+	6.	campaign_id – BIGINT (20)
+	7.	list_id –INT (11)
+	8.	created_datetime – DATETIME
+	9.	updated_datetime – DATETIME
+
+2.	Update campaign_contact table with adding below columns
+	1.	added_as_hopper – ENUM (‘0’, ‘1’)  - (when contact will add in auto_hopper table then status change according that rows)
+		1.1    0 indicate contact is not added in hopper table
+		1.2    1 indicate contact is added in hopper table
+	2.	last_call_datetime – DATETIME – (for check and calculate current time to last called place time for hopper process)
