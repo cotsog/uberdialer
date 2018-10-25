@@ -2,4 +2,7 @@ language: php
 pages:
   stage: deploy
   only:
-    - maste
+    - master
+plugins:
+  phpcodesniffer:
+    enabled: true    
