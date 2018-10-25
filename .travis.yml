@@ -3,6 +3,4 @@ pages:
   stage: deploy
   only:
     - master
-plugins:
-  phpcodesniffer:
-    enabled: true    
+   
