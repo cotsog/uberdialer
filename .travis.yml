@@ -6,8 +6,26 @@ php:
   - 5.6
   - 7.0
 
+# Select what we should cache
+cache:
+  paths:
+  - vendor/
+
+before_script:
+    - composer self-update
+    - composer install
+    
+stages:
+    - test
+
+test:
+    stage: test
+    script:
+        - ./vendor/bin/phpcs -n -p --extensions=php --standard=PSR2 ./application
+
 pages:
   stage: deploy
   only:
-    - master
+    - master        
+        
    
