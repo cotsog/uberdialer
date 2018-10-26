@@ -15,5 +15,7 @@ pages:
   dependencies:
     - test
   only:
-    - master        
+    - master  
+    
+script: ./build.sh    
        
