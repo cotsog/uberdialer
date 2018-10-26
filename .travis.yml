@@ -1,19 +1,8 @@
 language: php
 
-sudo: false
-
 php:
   - 5.6
-  - 7.0
 
-# Select what we should cache
-cache:
-  paths:
-  - vendor/
-
-before_script:
-    - composer install
-    
 stages:
     - test
 
